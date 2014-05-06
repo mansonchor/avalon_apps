@@ -183,6 +183,7 @@ seajs.config
 		'megapix_img' : 'base/megapix_img',
 		'img_process' : 'base/img_process',
 		'exif' : 'base/exif',
+		'avalon_mobile' : 'base/avalon.mobile',
 		
 		'base_package' : 'base/base_package',
 		'photowall_package' : 'wo/module/photowall_package',
