@@ -4,8 +4,8 @@ define("frame/page",["ua",'base_package'],function(require, exports)
 	var ua = require('ua')
 	
 	//add by manson 2013.5.19底层事件绑定调整
-	require('hammer')($)
-	$(document.body).hammer({ swipe_velocity : 0.2 })
+	//require('hammer')($)
+	//$(document.body).hammer({ swipe_velocity : 0.2 })
 
 	
 	exports.new_page = function(options)
