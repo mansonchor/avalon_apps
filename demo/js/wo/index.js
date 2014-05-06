@@ -99,7 +99,7 @@ define("wo/index", function(require, exports)
 				}
 			})
 
-			model.sss = "阿嘎洒搜噶搜噶搜噶施工"
+			//model.sss = "阿嘎洒搜噶搜噶搜噶施工"
         }
 
         
