@@ -42,7 +42,7 @@ define("wo/index", function(require, exports)
 			
 			//var init_html = template_obj.index;
 			
-			var init_html = '<div  ms-controller="test" ><div style="height:30px;background:red" class="test"  ms-on-click="tap_function" ></div><div ms-on-tap="tap_function" >{{sss}}</div></div>'						 
+			var init_html = '<div  ms-controller="test" ><div style="height:300px;background:red" class="test"  ms-on-click="tap_function" ></div>    <div ms-on-tap="tap_function" >{{sss}}</div></div>'						 
 
 			this.$el.append($(init_html))
 			
